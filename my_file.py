@@ -6,4 +6,4 @@ def myFunc():
     print('hello')
     
 def myFunc():
-    print('hello')
+    print('i changed this for conflict')
